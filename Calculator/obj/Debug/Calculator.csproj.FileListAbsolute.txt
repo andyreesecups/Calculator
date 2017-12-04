@@ -1,0 +1,9 @@
+c:\users\areese\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\areese\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\areese\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\areese\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+c:\users\areese\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\areese\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\areese\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+c:\users\areese\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\areese\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
